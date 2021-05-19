@@ -1,0 +1,19 @@
+Machine Learning 160 160 160 60
+
+Data Analysis 160 160 160
+
+Databases 160 
+
+Data Visualization 60 60 160
+
+Data Management 160 60 60
+
+Statistical Programming 60 160 160 60
+
+Mathematics 60 160 160 60
+
+Probability & Statistics 25 160 160
+
+Python Programming 360 160 60
+
+Computer Programming 160
